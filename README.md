@@ -1,2 +1,5 @@
 # RSA-Factoring-Challenge
-AlgorithmScripting
+
+./factors <file>
+
+./rsa <file>
